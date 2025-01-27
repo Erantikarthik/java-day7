@@ -36,11 +36,6 @@ static void arRR(int[]x) {
 		arRR(num);
 	}
 }
-		
-		
-	
-		
 
-	
 
 
